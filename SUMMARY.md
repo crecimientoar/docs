@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to Crecimiento Docs](README.md)
 
 ## Getting Started
 
