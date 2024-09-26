@@ -23,7 +23,7 @@ Welcome to the GitBook Starter Template! Here you'll get an overview of all the 
 
 You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
-!!
+!!2
 
 ### Jump right in
 
