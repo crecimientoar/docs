@@ -1,23 +1,27 @@
 # Table of contents
 
-* [Crecimiento Ecosystem](README.md)
-* [Intro to Crecimiento Ecosystem](intro-to-crecimiento-ecosystem.md)
-* [Copy of Intro to Crecimiento Ecosystem](copy-of-intro-to-crecimiento-ecosystem.md)
-
-## Crecimiento Ecosystem
-
-* [The Vision](crecimiento-ecosystem/the-vision.md)
-* [Objectives](crecimiento-ecosystem/objectives.md)
-* [What Success Looks Like](crecimiento-ecosystem/what-success-looks-like.md)
-* [Do's and Dont's](crecimiento-ecosystem/dos-and-donts.md)
-* [Ecosystem Platforms](crecimiento-ecosystem/ecosystem-platforms.md)
-
-## How-to-contribute
-
-* [Startups](how-to-contribute/quickstart.md)
-* [Advisors & Mentors](how-to-contribute/quickstart-1.md)
-* [Partners](how-to-contribute/quickstart-2.md)
-* [Community](how-to-contribute/community/README.md)
-  * [Community Members](how-to-contribute/community/community-members.md)
-  * [Contributors: Spark Program](how-to-contribute/community/contributors-spark-program.md)
-  * [Ecosystem Programs](how-to-contribute/community/ecosystem-programs.md)
+* [About Crecimiento](README.md)
+* [Crecimiento Ecosystem](crecimiento-ecosystem/README.md)
+  * [The Vision](crecimiento-ecosystem/the-vision.md)
+  * [Objectives](crecimiento-ecosystem/objectives.md)
+  * [What Success Looks Like](crecimiento-ecosystem/what-success-looks-like.md)
+  * [Do's and Dont's](crecimiento-ecosystem/dos-and-donts.md)
+* [Join Crecimiento Ecosystem](join-crecimiento-ecosystem/README.md)
+  * [Build your own Ecosystem Program](join-crecimiento-ecosystem/build-your-own-ecosystem-program.md)
+  * [Become a Contributor: Spark Program](join-crecimiento-ecosystem/become-a-contributor-spark-program.md)
+  * [Become a Partner or Sponsor](join-crecimiento-ecosystem/become-a-partner-or-sponsor.md)
+  * [Become a Mentor](join-crecimiento-ecosystem/become-a-mentor.md)
+  * [Participate in Startup Programs](join-crecimiento-ecosystem/participate-in-startup-programs.md)
+  * [Just join the community!](join-crecimiento-ecosystem/just-join-the-community.md)
+* [What people are building](what-people-are-building/README.md)
+  * [Crypto Cowork](what-people-are-building/crypto-cowork.md)
+  * [Founder School](what-people-are-building/founder-school.md)
+  * [December Pop Up City](what-people-are-building/december-pop-up-city.md)
+  * [City Tech](what-people-are-building/city-tech.md)
+  * [Hacker Houses](what-people-are-building/hacker-houses.md)
+  * [University Club Association](what-people-are-building/university-club-association.md)
+  * [Venture Studio](what-people-are-building/venture-studio.md)
+  * [Marketing Campaign Aleph Barrio](what-people-are-building/marketing-campaign-aleph-barrio.md)
+  * [Special Economic Zone](what-people-are-building/special-economic-zone.md)
+  * [Regulation Day Cordoba](what-people-are-building/regulation-day-cordoba.md)
+  * [Aleph App](what-people-are-building/aleph-app.md)
