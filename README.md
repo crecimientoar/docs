@@ -19,19 +19,25 @@ layout:
 
 # About Crecimiento
 
-Crecimiento is a movement that came from a simple idea: **now is Argentina’s moment to drive significant crypto adoption in Argentina and transform the economy.**&#x20;
+Crecimiento emerged from a simple yet powerful idea: it’s time to drive transformative crypto adoption across Argentina and redefine the country’s economic landscape. Argentina’s unique conditions, including high grassroots crypto adoption, world-class developer talent, strong political backing, and a wave of investor interest, have created an ideal environment to turn Argentina into a leading hub for crypto and tech innovation.
 
-Strong grassroots crypto adoption, world-class developer talent, and top-down political ambition, combined with newfound investor interest, create a prime opportunity to rebuild the country into a leading crypto and startup hub.&#x20;
+## Our Vision for Transformation
 
-Crecimiento’s vision is to _be_ the transformation. Our goals are clear:
+Our vision at Crecimiento is to ignite a crypto-powered transformation. We’re here to help build an ecosystem that:
 
-* **Bringing 5 to 10 million people on-chain** with great products and startups;&#x20;
-* **Making Argentina’s tech startup ecosystem 10x larger and better** through funding, infrastructure and support; and&#x20;
-* **Giving startups >20-year stability** by establishing a new regulatory framework.
+* **Brings 5 to 10 million people on-chain** through impactful products and startups.
+* **Amplifies Argentina’s tech ecosystem tenfold** with infrastructure, funding, and ongoing support.
+* **Establishes long-term stability** for startups, offering over 20 years of regulatory continuity to foster sustainable growth.
 
-To realise this vision we’re bringing dreamers and believers together, hosting a Pop-Up City this August, creating a regulatory sandbox in Buenos Aires, forming projects, teams and capital, and establishing growth and support structures like startup accelerators!
+### How We’re Bringing This Vision to Life
 
-**2000+** visionaries and dreamers have already come together to seize this moment. **Are you in?**
+We’re bringing together dreamers, believers, and innovators to shape this vision. Season 1 laid a foundation with the **Aleph Pop-Up City in August**, a collaborative environment that sparked connections, projects, and new ideas. Aleph’s success—hosting 68 startups, engaging hundreds of builders, and attracting significant media attention—showed what’s possible when community and collaboration lead the way. Moving forward, we are leveraging these learnings to provide more defined structures for growth, such as:
+
+* A **regulatory sandbox** in Buenos Aires to foster compliant innovation,
+* New growth and support frameworks like startup accelerators, and
+* Expanding partnerships and support networks to empower Argentina’s builders.
+
+With **2,000+ visionaries** already onboard, Crecimiento’s mission to drive Argentina’s crypto adoption is gathering momentum. Season 2, anchored by the **December Pop-Up City**, represents the beginning of a new phase focused on scaling this impact. Are you in?
 
 
 

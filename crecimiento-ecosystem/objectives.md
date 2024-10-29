@@ -1,6 +1,6 @@
 # Objectives
 
-####
+
 
 1. **Grow the builder funnel by supporting the creation of 100 new programs within the next 18 months.**
 

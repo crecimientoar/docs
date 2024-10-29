@@ -2,10 +2,6 @@
 
 Crecimiento thrives on collaboration, with startups, institutions, advisors, and community members all playing vital roles in driving the movement forward. Our partners provide the resources, expertise, and networks needed to grow the Crecimiento ecosystem.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Become a partner</td><td></td><td></td></tr><tr><td>Become a sponsor</td><td></td><td></td></tr></tbody></table>
-
-
-
 ## Partners
 
 As a partner, you play a critical role in accelerating Crecimiento’s mission by contributing resources, expertise, and strategic connections to the ecosystem. Partnership with Crecimiento goes beyond collaboration—it’s about actively shaping the crypto landscape in Argentina. You’ll:
@@ -15,8 +11,6 @@ As a partner, you play a critical role in accelerating Crecimiento’s mission b
 * Help promote Crecimiento’s programs through cross-marketing and collaborative campaigns, reaching new audiences and expanding our impact.
 
 Become a Partner
-
-
 
 ## Sponsors
 
