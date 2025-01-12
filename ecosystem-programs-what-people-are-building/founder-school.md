@@ -1,2 +1,0 @@
-# December Pop Up City
-

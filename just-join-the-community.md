@@ -8,9 +8,8 @@ Every community member is vital to the growth of Crecimiento. By engaging with t
 
 ## All our Social Media links
 
+* [Bento](https://bento.me/crecimientoar)
 * [Instagram](https://www.instagram.com/crecimientoar/)
 * [Twitter](https://x.com/crecimientoar)
 * [Blogpost](https://substack.com/@crecimientoar/posts)
 * [Telegram](https://t.me/+sXWv0kpT7qo4ZTdk)
-* [Discord](https://discord.gg/BnH7ACbDAj)
-* [Dework](https://app.dework.xyz/crecimiento-28019)

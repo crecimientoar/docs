@@ -1,12 +1,4 @@
-# Build your own Ecosystem Program
-
-As Crecimiento begins Season 2, we’re launching our Ecosystem Programs—a platform for builders, contributors, and partners to bring impactful projects to life, focusing this season’s efforts on supporting the December Pop-Up City. Our goal is to channel the energy and creativity within the community into initiatives that showcase the movement’s potential to drive Argentina’s crypto adoption forward.
-
-### What Are Ecosystem Programs?
-
-Ecosystem Programs allow contributors and partners to develop and execute initiatives that benefit the broader community. For Season 2, our focus is exclusively on pop-up-related activities, including hackathons, educational workshops, and community-building projects. This initial focus will allow us to fine-tune processes, learn from real-world feedback, and create a foundation for broader program support in future seasons.
-
-## What kind of support do Ecosystem Programs get?
+# What kind of support do I get?
 
 ### Operational Support
 
@@ -23,4 +15,3 @@ The Foundation helps boost visibility for Ecosystem Programs through its establi
 ### Networking and Partnerships
 
 Ecosystem Programs are connected to key partners, including companies, universities, and other organizations within the Crecimiento network. These connections help programs find collaborators, participants, and supporters to grow and scale.
-

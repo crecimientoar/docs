@@ -10,7 +10,7 @@ As a partner, you play a critical role in accelerating Crecimiento’s mission b
 * Share spaces, tools, or mentorship to support key events, coworking opportunities, and ongoing initiatives.
 * Help promote Crecimiento’s programs through cross-marketing and collaborative campaigns, reaching new audiences and expanding our impact.
 
-Become a Partner
+[Become a Partner](https://t.me/santicristobal)
 
 ## Sponsors
 
@@ -20,4 +20,4 @@ As a sponsor, you'll help drive the Crecimiento movement forward by directly sup
 * Connect with Crecimiento’s network of startups, institutions, and crypto leaders.
 * Elevate your brand through targeted marketing campaigns, positioning you as a key supporter of Argentina's blockchain transformation.
 
-Become a Sponsor
+[Become a Sponsor](https://calendly.com/simonpuebla/gmgm)
