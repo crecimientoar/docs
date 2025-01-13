@@ -14,4 +14,3 @@
 * [Become an Advisor or Mentor](become-an-advisor-or-mentor.md)
 * [Participate in Startup Programs](participate-in-startup-programs.md)
 * [Just join the community!](just-join-the-community.md)
-* [What people are building](what-people-are-building.md)

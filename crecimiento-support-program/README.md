@@ -10,7 +10,7 @@ Through Crecimiento Support Program, program builders can get support by Crecimi
 
 The process to get support is pretty straightforward:
 
-* Go to Crecimiento's forum
+* Go to [**Crecimiento's forum**](https://forum.crecimiento.build/)
 * Submit your proposal
 * Get approved and receive support!
 

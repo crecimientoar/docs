@@ -2,7 +2,7 @@
 
 ### 1st Stage - Submit your proposal
 
-Submit proposal by creating a new topic in Crecimiento's forum.
+Submit proposal by creating a new topic in [**Crecimiento's forum**](https://forum.crecimiento.build/).
 
 The proposal should include key details:
 
